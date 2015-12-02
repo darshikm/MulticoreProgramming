@@ -1,3 +1,11 @@
+#include <iostream>
+#include <stdlib.h>
+#include "librace.h"
+#include "stdatomic.h"
+#include <threads.h>
+
+using namespace std;
+
 template <class T>
 class Node {
 public:
