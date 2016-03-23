@@ -1,8 +1,9 @@
 # MulticoreProgramming-BoundedStack-
 
 Coursework assignments on Datastructure implementations of:
-Concurrent Stack
-Static Tree Barrier
+
+1. Concurrent Stack
+2. Static Tree Barrier
 
 The idea/motivation is to get acquainted to C/C++ memory model and to use the weakest memory orderings that provide
 correctness for the datastructure implementations.
