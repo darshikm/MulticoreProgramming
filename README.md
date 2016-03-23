@@ -1,4 +1,4 @@
-# MulticoreProgramming-BoundedStack-
+# MulticoreProgramming
 
 Coursework assignments on Datastructure implementations of:
 
